@@ -1,0 +1,13 @@
+name = "Hollowmarch"
+filename = "hollowmarch-1.2.2-mc1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "89f3006bb0cc48d4629a8dec2bc010a0d8b0ea4d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8230779
+project-id = 1534779

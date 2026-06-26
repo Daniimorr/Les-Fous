@@ -1,0 +1,13 @@
+name = "Sky's Flowers"
+filename = "Sky's Flowers 1.6 NeoForge 1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4b64474a4a618e9ddc5231851e54a403741af1c5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6911861
+project-id = 1064890

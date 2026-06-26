@@ -1,0 +1,13 @@
+name = "Les fous"
+author = "Danimor"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ebc0f3acbe23a64aceaab80bb0f6cc423573c2a7db3f02d2b66849e131567d7f"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.234"
