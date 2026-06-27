@@ -1519,6 +1519,11 @@ hash = "8105b7cb6eb06eca4be8e9a83406fe7fb7e7f62abea8501125fbe52b7e47d483"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf.pw.toml"
+hash = "cf914684c4151076b726116a66f7bc81a6116655551bcce70a9e64e34e5aa308"
+metafile = true
+
+[[files]]
 file = "mods/caelus.pw.toml"
 hash = "86cf2ae835b8f3d981af2e88a4d19fdc3dc4f5aa3904c6ba30e25d77d3e9fcbb"
 metafile = true
@@ -1650,6 +1655,11 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "f92e7a06645e41ea1934dc420eb2772edb1708c0d71cb427baef8cf753acb934"
+metafile = true
+
+[[files]]
+file = "mods/dark-utilities.pw.toml"
+hash = "9d20637581a8ff591843eb4c3be9570e8c0db2c3ea9ca2c891f9945e4e83d0ee"
 metafile = true
 
 [[files]]
@@ -1872,6 +1882,11 @@ hash = "c183fb8843a6c04da0417e5d51c62b2def40b994f0e9f1176243877b104d88a8"
 metafile = true
 
 [[files]]
+file = "mods/nyctography.pw.toml"
+hash = "0fa2bd5bdf0edfb930a18849a49fdf049fb100b5c8eaacb4f7f8c24827fa47f4"
+metafile = true
+
+[[files]]
 file = "mods/oh-the-trees-youll-grow.pw.toml"
 hash = "966dde29551f96d0cdec76c659bdec9b5a16c4a102ed053cb5a6e1e36860c75a"
 metafile = true
@@ -1902,6 +1917,11 @@ hash = "3718e8a37d0dc2939cc350cce74bcb9c36b59f48baf4560e62804f7ca6478185"
 metafile = true
 
 [[files]]
+file = "mods/pig-pen-cipher.pw.toml"
+hash = "c542b169bf7c70a0ac4f66c895499abd37aa4897e0c4295ddd3e6aaa72afaef4"
+metafile = true
+
+[[files]]
 file = "mods/placebo.pw.toml"
 hash = "201e0be56d2d9430843688b4a04dea207732b6d60f8001fb9e6396d48aea287f"
 metafile = true
@@ -1919,6 +1939,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "8b725f1822c0feab9e51bef600f2ee6f4c26efbb55aa3ee9073a027f1f134202"
+metafile = true
+
+[[files]]
+file = "mods/prickle.pw.toml"
+hash = "eab2f56ff9135b3b7253ea5a73deae2f887e2876f5f0432936044a6e926937b4"
 metafile = true
 
 [[files]]
@@ -1953,6 +1978,11 @@ metafile = true
 [[files]]
 file = "mods/ribbits.pw.toml"
 hash = "5d1a0fefc09545d23a75f37a7cd8b7dcf817a7a57fe28f1419b19be92476dcaa"
+metafile = true
+
+[[files]]
+file = "mods/runelic.pw.toml"
+hash = "ece6606ae5a408eb1683f68596db5f4ff1ee28bd0293043ed99794ffa6e33d64"
 metafile = true
 
 [[files]]
@@ -1993,11 +2023,6 @@ metafile = true
 [[files]]
 file = "mods/sit.pw.toml"
 hash = "bea5c334329167c70e633a3dad78b368bca304f1da00adea9d2ceea765945992"
-metafile = true
-
-[[files]]
-file = "mods/skinrestorer.pw.toml"
-hash = "a158161435428ec27b125c013a125b185bac81413c8b90e8cc2cb6c8a6fffaf7"
 metafile = true
 
 [[files]]
