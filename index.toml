@@ -1614,7 +1614,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeronautics-x-curios-api-compat.pw.toml"
-hash = "50a172f209df001e5b8981f2b6269e897570f134e85ce4700aa2628cf5bb1a23"
+hash = "d7ea619e60b3c7eea10edcd20ffc57bb2a8ec1193b6bfa94a558bc5dd8cdeca3"
 metafile = true
 
 [[files]]
