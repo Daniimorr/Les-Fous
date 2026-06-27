@@ -1,6 +1,6 @@
 name = "MNS - Moog's Nether Structures"
 filename = "MoogsNetherStructures-1.21-3.0.0.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"
