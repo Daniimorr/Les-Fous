@@ -1594,7 +1594,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeronautics-x-curios-api-compat.pw.toml"
-hash = "d7ea619e60b3c7eea10edcd20ffc57bb2a8ec1193b6bfa94a558bc5dd8cdeca3"
+hash = "50a172f209df001e5b8981f2b6269e897570f134e85ce4700aa2628cf5bb1a23"
 metafile = true
 
 [[files]]
@@ -1773,6 +1773,11 @@ hash = "018fd970193f808f8c28f873d8b8c69ac9ba134712c7db27fc8d639cb226c9a6"
 metafile = true
 
 [[files]]
+file = "mods/lets-do-beachparty.pw.toml"
+hash = "6f3fa78929bb20a763b95056fef1803572f3661eb8f6b6531330e0cc15e15fb8"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "3b41e84ca0e5bd93f05eddcdff3f47b38e8bb9863b9bbb4bf05991098487a8a5"
 metafile = true
@@ -1927,6 +1932,11 @@ hash = "eab2f56ff9135b3b7253ea5a73deae2f887e2876f5f0432936044a6e926937b4"
 metafile = true
 
 [[files]]
+file = "mods/quark.pw.toml"
+hash = "ed816a4574588c1d994fd152c024bc888737c2d5b5bd5a1314705e97e8462d9a"
+metafile = true
+
+[[files]]
 file = "mods/realmrpg_skeletons-1.1.0-neoforge-1.21.1.jar"
 hash = "8a688c2dbd03abd51b48fd09e1ec29de3afe54511cef8046a58c3396c6227388"
 
@@ -2004,6 +2014,10 @@ metafile = true
 file = "mods/sit.pw.toml"
 hash = "bea5c334329167c70e633a3dad78b368bca304f1da00adea9d2ceea765945992"
 metafile = true
+
+[[files]]
+file = "mods/skinrestorer-2.8.1+1.21-neoforge.jar"
+hash = "f261ad7afcc3eabe5d30f484cce6ce03ef0f298b4142176c11fd966532e2e3c2"
 
 [[files]]
 file = "mods/sky-villages-forge.pw.toml"
@@ -2183,4 +2197,9 @@ metafile = true
 [[files]]
 file = "mods/yungs-extras-neoforge.pw.toml"
 hash = "cd321f6365bc3938e0671450aadcd40c8e03af5cb24d0a545fb07c890b4793ac"
+metafile = true
+
+[[files]]
+file = "mods/zeta.pw.toml"
+hash = "d1baffd370868590fcb2785146c278df5781d20994022749c53c0f9b2bffc7fc"
 metafile = true
