@@ -1424,6 +1424,11 @@ hash = "7e03652d2003566873ab5103454f7c537471d6c2fea1c2f614507b33ef4434f7"
 metafile = true
 
 [[files]]
+file = "mods/ancient-reforging.pw.toml"
+hash = "15cbdf90fc6312c82f38492bcdbc3a19c98b220aa8eefb5cdf890728e2ba7e12"
+metafile = true
+
+[[files]]
 file = "mods/another-furniture.pw.toml"
 hash = "8e3c94d901d27042e160a6f618f1574c5e644defe10d6fb9ad486c9f2dbfce5d"
 metafile = true
@@ -1668,6 +1673,11 @@ hash = "82d72ac4b1d62c7a1d14de30f403513dead518f1218f94ddba452f2f4bca21c2"
 metafile = true
 
 [[files]]
+file = "mods/fallen-gems-affixes.pw.toml"
+hash = "098d6df59e763cab80879ddfb051bac33f0a2bcc931886577d0d358edce919fc"
+metafile = true
+
+[[files]]
 file = "mods/farsight.pw.toml"
 hash = "b6b72d55f2a14573942d3b4fb261f1b3776ea7acc0f94fdbdb4d349e156c021c"
 metafile = true
@@ -1850,6 +1860,11 @@ metafile = true
 [[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "2e9a8daaa0e0cc9cdfb67422e0f928f2db6a1f2984b8636eb2b5091c5fb23e29"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-glyphs.pw.toml"
+hash = "afed0db5233a46c77595bca34ed1a4c05ac31b82f77beb0e60bcedf65d9566a2"
 metafile = true
 
 [[files]]

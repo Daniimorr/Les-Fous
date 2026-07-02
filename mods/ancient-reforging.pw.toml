@@ -1,0 +1,13 @@
+name = "Ancient Reforging"
+filename = "ancientreforging-1.8.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "54673bad0e7b84fdafc6d0802406c01316b37659"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7786556
+project-id = 985468
