@@ -1414,6 +1414,11 @@ hash = "39ec3cac812f819f45b88a70f6b83eb8c0e6007e9272bbccfb3f364b421d2631"
 metafile = true
 
 [[files]]
+file = "mods/additional-attributes.pw.toml"
+hash = "9fcfc4f1599df9bafa85a41f3d638d05c5f98f9f0bc2c954dfc6fec2d90084b2"
+metafile = true
+
+[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "db026135a8a23b2b660ebbfa8a85d06b26249305b2612bc2fab930e252100890"
 metafile = true
