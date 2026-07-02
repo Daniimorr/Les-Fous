@@ -2120,6 +2120,11 @@ hash = "01ccb17ed5a6766b1b880428f708722e02ae55563771bd913b59479f23528613"
 metafile = true
 
 [[files]]
+file = "mods/trashslot.pw.toml"
+hash = "b1908d3251d722ec5c18f2483b8c56743d7cae91f644caa6d82e1b3b5b64f604"
+metafile = true
+
+[[files]]
 file = "mods/viavens-flowers.pw.toml"
 hash = "cef6449378f460a05414f1d19d2c918d44eed1d2bd117b607bd8225302ec1621"
 metafile = true
