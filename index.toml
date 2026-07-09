@@ -1489,6 +1489,11 @@ hash = "f0aa35028d210e4c3b87e3029520dea9ead7db9d639e97faad2db374f6a9b2c1"
 metafile = true
 
 [[files]]
+file = "mods/athena.pw.toml"
+hash = "38bddea8d550568799dd7f208c0bbe10280de3e456016a0d59aa20de112a2345"
+metafile = true
+
+[[files]]
 file = "mods/atlas-api.pw.toml"
 hash = "8c6d5170ca4f3e42a3ff45ec2891a24fef98ab136f3e427fc34af23564d9e7dc"
 metafile = true
@@ -1531,6 +1536,11 @@ metafile = true
 [[files]]
 file = "mods/chatanimation.pw.toml"
 hash = "c10f29d57f6cd1022a73a2718e9c9e0497bd38d3eda5ffeb3008d68b5135e001"
+metafile = true
+
+[[files]]
+file = "mods/chipped.pw.toml"
+hash = "3024466ae43de66612dc5ec4cfe5b3a273f71cee29fc6940308798a817d561b6"
 metafile = true
 
 [[files]]
@@ -1605,6 +1615,11 @@ metafile = true
 [[files]]
 file = "mods/create-aeronautics-x-curios-api-compat.pw.toml"
 hash = "50a172f209df001e5b8981f2b6269e897570f134e85ce4700aa2628cf5bb1a23"
+metafile = true
+
+[[files]]
+file = "mods/create-aeroworks.pw.toml"
+hash = "444c9eae90f89417f7c9dfc21eb3027a5fd72410e6066481b0d87570195baeb7"
 metafile = true
 
 [[files]]
@@ -1755,6 +1770,11 @@ metafile = true
 [[files]]
 file = "mods/incendium.pw.toml"
 hash = "5a1604eb3c113c5a540de4768de72660ea652b41730ea318798a24b9f60d88b7"
+metafile = true
+
+[[files]]
+file = "mods/irisshaders.pw.toml"
+hash = "763ed0c115b2b9a1e37e38cb153748c9c3f3c31869fd3d56acfaad54c63e78af"
 metafile = true
 
 [[files]]
