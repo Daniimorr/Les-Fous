@@ -1419,6 +1419,16 @@ hash = "9fcfc4f1599df9bafa85a41f3d638d05c5f98f9f0bc2c954dfc6fec2d90084b2"
 metafile = true
 
 [[files]]
+file = "mods/ae2-jei-integration.pw.toml"
+hash = "491974dc6adba0e893fb755f55dfe833a1076ba49fdf9e4f92b8b9fa069ce9b5"
+metafile = true
+
+[[files]]
+file = "mods/aeronautic-additions-and-chunkloader.pw.toml"
+hash = "c70c7d8f795575792013ece30d55b93a8ef8d3181eef212cbd22f022c82209a5"
+metafile = true
+
+[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "db026135a8a23b2b660ebbfa8a85d06b26249305b2612bc2fab930e252100890"
 metafile = true
@@ -1466,6 +1476,16 @@ metafile = true
 [[files]]
 file = "mods/applied-energistics-2.pw.toml"
 hash = "afa4f499d946514c51f41f8f2202ac0946052b012570a210ebb31f0d0d627672"
+metafile = true
+
+[[files]]
+file = "mods/applied-flux.pw.toml"
+hash = "79145ab2f9345a30867eb8d910bb7ec9f78ff62a721e336a37c19230f95e6a72"
+metafile = true
+
+[[files]]
+file = "mods/applied-generators.pw.toml"
+hash = "33939cbc1b2874700d1e4091ae07447c068894bc48c757b5dd96cf9c0fe4c163"
 metafile = true
 
 [[files]]
@@ -1728,6 +1748,11 @@ hash = "32acd1d72f72af833ddf713ccf1636106c741720b43d05b4da07b22442522411"
 metafile = true
 
 [[files]]
+file = "mods/furniture-mods-create-sable-aeronautics.pw.toml"
+hash = "ae592d12c3aa6de3c6276b25773566e55dad0621406c35bbcd09ac31bcbd0ecb"
+metafile = true
+
+[[files]]
 file = "mods/galosphere.pw.toml"
 hash = "6b77815a3e8ff18b077860e775adad5c866dbbe9561b301a4af494aeb751a5ec"
 metafile = true
@@ -1735,6 +1760,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "1e5d37a3fb41e78708215f521e8b3f3a661b2157bd9e15abf4c39c4eb87621ba"
+metafile = true
+
+[[files]]
+file = "mods/glodium.pw.toml"
+hash = "9aafdd83668c1b903caf0245b0bf2de3bb743befaa78d39e74a95c9933d624ac"
 metafile = true
 
 [[files]]
@@ -1774,7 +1804,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "763ed0c115b2b9a1e37e38cb153748c9c3f3c31869fd3d56acfaad54c63e78af"
+hash = "bc0ed43619af3b5e453ccb36412d72aef8d066594946a927155d2fbd440e4b40"
 metafile = true
 
 [[files]]
